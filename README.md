@@ -4,7 +4,7 @@ Team: Pam, Natascha, Oscar, Alyona. Final project
 
 This project explores the development and application of a Brain Computer Interface (BCI) system utilizing Electroencephalogram (EEG) technology to enable direct communication between the brain and external devices. Specifically, it focuses on employing non-invasive, cost-effective EEG to read and process the brain's electrical signals, with a particular emphasis on detecting the P300 event-related potential—a positive deflection in EEG data occurring approximately 300 milliseconds after stimulus presentation. The primary application demonstrated in this study is a model trained to identify P300 signals from EEG data, allowing individuals, particularly those unable to use their limbs due to neurological or muscular conditions, to dial emergency numbers by simply focusing on displayed digits. The paper details the paradigm creation, tool utilization, data pre-processing, classification methodologies, and training processes that culminated in achieving approximately 96.667% accuracy in signal detection, showcasing the potential of BCI systems in enhancing interaction with technology for patients with severe mobility impairments.
 
-# For a complete description of the application refer to [PBSM_final_project.pdf](Deliverable/PBSM_final_project.pdf)
+For a complete description of the application refer to [PBSM_final_project.pdf](Deliverable/PBSM_final_project.pdf)
 
 # Steps to use the Brain Machine Interface in the Speller Matrix application in the p300 paradigm
 
